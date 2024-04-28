@@ -1,4 +1,4 @@
-# Project README
+# Image classification project
 
 ## Introduction
 This project is designed for training and evaluating various machine learning models on the CIFAR-10 dataset. It includes functionalities for loading the dataset, loading the pre-trained EfficientNetV2-S model, extracting features, training and evaluating multiple models such as K-Nearest Neighbors (KNN), Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), Gaussian Naive Bayes Classifier (GNBC), and Bernoulli Naive Bayes Classifier (BNBC). Additionally, it provides a script to visualize the embeddings in 2D using t-distributed Stochastic Neighbor Embedding (t-SNE).
