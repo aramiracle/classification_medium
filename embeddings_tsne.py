@@ -30,6 +30,6 @@ for i, category in enumerate(categories):
     plt.ylabel('t-SNE Dimension 2')
     plt.legend()
 plt.tight_layout()
-plt.savefig('embedding_with_clusters.png')
+plt.savefig('embeddings_with_clusters.png')
 
 
