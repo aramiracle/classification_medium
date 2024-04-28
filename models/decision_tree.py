@@ -10,4 +10,4 @@ def train_and_evaluate_decision_tree(train_features, train_labels, test_features
     accuracy = accuracy_score(test_labels, predictions)
     f1 = f1_score(test_labels, predictions, average='weighted')
     cm = confusion_matrix(test_labels, predictions)
-    return (accuracy, f1, cm)
+    return predictions, (accuracy, f1, cm)
