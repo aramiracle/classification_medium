@@ -31,5 +31,3 @@ for i, category in enumerate(categories):
     plt.legend()
 plt.tight_layout()
 plt.savefig('embeddings_with_clusters.png')
-
-
