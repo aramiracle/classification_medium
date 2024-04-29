@@ -80,3 +80,5 @@ These methods provide a diverse set of approaches for classification tasks, each
 - torch
 - torchvision
 - tqdm
+
+Finally there is a medium article you can read for deeper insight. This is a [link](https://medium.com/@a.r.amouzad.m/classic-machine-learning-part-3-4-classification-on-image-dataset-944ed3353d05) to story.
